@@ -32,7 +32,7 @@ Detalle aplicado a GSI en `docs/dominio.md` §9.
 
 **Jev** es el primer modelo **System One** de TypeSafe AI: decisiones tipadas probabilísticas con
 confidence calibrada en una pasada paralela (70–500ms), sin generación de texto libre. Anuncio
-oficial, ecosistema GitHub (jev-mcp, OpenJev, adaptador open source) y cómo entra al kit en
+oficial, ecosistema GitHub (jev-mcp, OpenJev, adaptador open source) y cómo entraría al producto en
 **`research/2026-09-28-jev.md`** (decisión D-009). Nota: la acepción contable *Journal Entry
 Voucher* quedó solo como vocabulario ERP en `docs/dominio.md` §7.
 
