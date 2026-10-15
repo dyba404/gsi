@@ -71,7 +71,7 @@ El kardex es el historial por producto: fecha, tipo, entrada/salida/cantidad, co
 - **Fase 2:** órdenes de compra + recepción parcial, proveedores, conteo cíclico guiado, reportes (rotación/ABC), exportes.
 - **Fase 3:** multi-almacén y traslados, lotes/vencimientos (FIFO), roles/permisos, integración POS/ventas, códigos de barra con cámara móvil.
 
-## 9. UX que el dominio exige (puente con skills de diseño)
+## 9. UX que el dominio exige
 
 - Tablas densas con búsqueda instantánea, filtros guardados y acciones en lote (ver patrón dashboard SaaS en `research/`).
 - Badges de estado de stock con color **y** texto/icono (accesibilidad): AGOTADO / BAJO / OK / EXCESO.

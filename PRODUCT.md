@@ -1,6 +1,5 @@
 # Product — GSI
 
-<!-- impeccable:product-schema 1 -->
 <!-- Decisiones cerradas el 2026-09-28 con el usuario. Registro completo y racionales en docs/decisiones.md.
      Features de referencia (qué ya está resuelto en el mercado) en docs/features-referencia.md. -->
 
